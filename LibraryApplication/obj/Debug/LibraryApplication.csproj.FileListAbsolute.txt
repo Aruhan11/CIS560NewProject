@@ -1,0 +1,16 @@
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\bin\Debug\LibraryApplication.exe
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\bin\Debug\LibraryApplication.pdb
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.csprojAssemblyReference.cache
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.uxMainWindow.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageAssetWindow.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageCheckOutAssetWindow.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageCreatorWindow.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageLibrarian.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageReportQueries.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.ManageUserWindow.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.cache
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.csproj.CoreCompileInputs.cache
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.exe
+D:\Study\Spring21\CIS560\NewProjectRepo\LibraryApplication\obj\Debug\LibraryApplication.pdb
